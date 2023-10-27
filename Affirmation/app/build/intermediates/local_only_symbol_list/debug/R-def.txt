@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id item_title
+id recycler_view
+layout activity_main
+layout list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string affirmation1
+string affirmation2
+string affirmation3
+string affirmation4
+string affirmation5
+string affirmation6
+string app_name
+style Base.Theme.Affirmation
+style Theme.Affirmation
+xml backup_rules
+xml data_extraction_rules

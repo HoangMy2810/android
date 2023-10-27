@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="affirmation1">Cố lên</string>
+    <string name="affirmation2">Mạnh mẽ lên</string>
+    <string name="affirmation3">Tôi tin bạn làm được</string>
+    <string name="affirmation4">Hãy nắm bắt cơ hội</string>
+    <string name="affirmation5">Lạc quan lên</string>
+    <string name="affirmation6">Điều tốt đẹp sẽ tới</string>
+    <string name="app_name">Affirmation</string>
+    <style name="Base.Theme.Affirmation" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Affirmation" parent="Base.Theme.Affirmation"/>
+</resources>
