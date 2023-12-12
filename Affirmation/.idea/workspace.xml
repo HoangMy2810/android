@@ -10,15 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84fb3a33-d838-419a-92a8-a2651a05bb33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ListViewExample/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListViewExample/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListViewExample/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListViewExample/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListViewExample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListViewExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListViewExample/app/src/main/java/com/myhh207644/listviewexample/DataAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListViewExample/app/src/main/res/layout/item_name.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListViewExample/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeNumber/app/src/main/java/com/myhh207644/primenumber/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeNumber/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +92,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/HUST/Workspace/android/android/Affirmation",
+    "last_opened_file_path": "D:/HUST/Workspace/android/android/TipTime",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2"
